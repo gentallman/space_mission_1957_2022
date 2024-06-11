@@ -17,6 +17,12 @@ Available : https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-
 
 ![space](https://github.com/gentallman/space_mission_1957_2022/assets/78334851/14fb97fe-d5c3-4dd8-ab37-fdbf7f2c9133)
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: [linkedin.com/in/smit98rana/](https://www.linkedin.com/in/smit98rana/)https://www.linkedin.com/in/smit98rana/
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
